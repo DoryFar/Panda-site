@@ -1,4 +1,5 @@
-# title(){return this.options.title||this.options.name}
+Find the page here:
+https://doryfar.github.io/Panda-site/
 
 Quick start:
 
